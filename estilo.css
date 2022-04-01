@@ -1,0 +1,25 @@
+body{width: 80%; margin: auto; background-color: lightgoldenrodyellow;}
+
+header{
+    text-transform:uppercase;
+    text-align: center;
+    width: 45%;
+    margin-left: 28%;
+}
+
+main{
+    margin-top: 5%;
+    width: 20.5%;
+    margin-left: 38%;
+    text-align: center;
+}
+
+label{ font-weight: bolder; }
+#plato{margin-bottom: 3%; }
+#bebida{margin-bottom: 3%; }
+#postre{margin-bottom: 3%; }
+#precio{margin-bottom: 3%; }
+#menuFavorito{margin-bottom: 3%; }
+#listaMenus{margin-bottom: 3%; }
+#generarMenu{margin-bottom: 3%; }
+#favorito{margin-bottom: 3%; }
